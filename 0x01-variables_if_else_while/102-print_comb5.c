@@ -22,8 +22,10 @@ int main(void)
 			if (i < 97)
 			{
 				putchar(',');
-				puchar(' ');
+				putchar(' ');
 			}
 		}
 	}
+	putchar('\n');
+	return (0);
 }
