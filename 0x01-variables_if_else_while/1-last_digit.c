@@ -4,11 +4,11 @@
 /**
  * main - Entry point
  *
- *Return 
+ *Return: Always 0 (sucess)
  */
 int main(void)
 {
-	int n,lastnum;
+	int n, lastnum;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
