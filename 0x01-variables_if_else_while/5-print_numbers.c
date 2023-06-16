@@ -2,15 +2,16 @@
 /**
  * main - Emtry point
  *
- * Return: Active 0 (sucess)
+ * Return: Always 0 (sucess)
  */
 int main(void)
 {
-	int n;
+	int num;
 
-	for(n = 0; n < 10; n++)
+	for(num = 0; num < 10; num++)
 	{
-		printf(n);
+		printf("%d", num);
 	}
+	putchr('\n');
 	return(0);
 }	
