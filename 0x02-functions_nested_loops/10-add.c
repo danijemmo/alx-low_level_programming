@@ -11,6 +11,6 @@ int add(int n1, int n2)
 
 	result = n1 + n2;
 
-	_putchar(result + '0');
+	_putchar(result);
 	return (result);
 }
