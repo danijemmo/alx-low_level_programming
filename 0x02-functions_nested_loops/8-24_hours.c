@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * jack_bauer - ad
+ * jack_beuer - ad
  * Return: ..
  */
-void jack_bauer(void)
+void jack_beuer(void)
 {
 	int a, b, c, d;
 
