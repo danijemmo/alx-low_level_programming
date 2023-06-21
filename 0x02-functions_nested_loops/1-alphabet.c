@@ -4,7 +4,7 @@
  *
  * Return: always 0 (sucess);
  */
-int print_alphabet(void)
+void print_alphabet(void)
 {
 	char a;
 
