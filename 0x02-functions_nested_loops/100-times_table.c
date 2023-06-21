@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * print_times_table - ad
  * @n:dasd
