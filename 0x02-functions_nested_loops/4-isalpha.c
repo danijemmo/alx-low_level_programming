@@ -4,7 +4,7 @@
  * @c: int variable
  * Return: 1 for lowercase and upercase 0 another charctor
  */
-int _isalpha(int c);
+int _isalpha(int c)
 {
 	if (c >= 97 && c <= 122)
 	{
