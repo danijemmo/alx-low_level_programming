@@ -11,9 +11,7 @@
  *
  *      * @n: input value
  *
- *       *
- *
- *        * Return: dest
+ *       * Return: dest
  *
  */
 
